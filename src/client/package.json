@@ -1,0 +1,1 @@
+{"scripts":{"dev":"vite","build":"tsc -b && vite build","preview":"vite preview"},"dependencies":{"@vitejs/plugin-react":"latest","lightweight-charts":"^5.0.9","react":"latest","react-dom":"latest"},"devDependencies":{"typescript":"latest","vite":"latest","@types/react":"latest","@types/react-dom":"latest"},"version":"0.1.0","private":true}
